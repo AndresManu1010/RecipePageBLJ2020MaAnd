@@ -1,0 +1,30 @@
+Background - Color : 
+Navbar/ Footer BG : 198,70,70
+navbar Text BG : 235,69,69
+Impressum BG :
+Text BG : 
+Titel
+-------------------------
+Link
+Link :
+LinkActive:
+LinkHover
+
+
+-------------------------
+Normal Text
+Font :
+Size : 
+Color :
+
+-------------------------
+Titels
+Font :
+Size :
+Color :
+
+-------------------------
+Navbar text
+Font :
+Size :
+Color :

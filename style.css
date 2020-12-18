@@ -1,0 +1,68 @@
+body {
+  background-image: url(pics/pageBG.png);
+}
+/* Navbar */
+.navbar-light .navbar-toggler {
+  color: red;
+  border-color: red;
+}
+.bg-light {
+  background-color: rgb(198, 70, 60) !important;
+}
+.navbar {
+  padding-top: 1.3rem;
+  padding-bottom: 1.3rem;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+#wrap {
+  min-height: 100%;
+}
+
+#main {
+  overflow: auto;
+  padding-bottom: 150px; /* this needs to be bigger than footer height*/
+}
+
+/* Footer */
+.footer {
+  position: relative;
+  margin-top: -150px; /* negative value of footer height */
+  height: 150px;
+  clear: both;
+  padding-top: 20px;
+}
+
+footer{
+  background-color: rgb(198, 70, 60) !important;
+}
+
+
+
+
+.center{
+  text-align: center;
+}
+
+.right{
+  text-align: right;
+}
+
+@media (max-width: 500px) {
+
+  body {
+      background-size: 200%;
+
+      background-position: top 20% left 50%;
+  }
+  
+}
+
+.icon{
+  height: 5em;
+  width: 5em;
+}
