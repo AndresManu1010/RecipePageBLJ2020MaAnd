@@ -65,4 +65,5 @@ footer{
 .icon{
   height: 5em;
   width: 5em;
+  float: right;
 }
