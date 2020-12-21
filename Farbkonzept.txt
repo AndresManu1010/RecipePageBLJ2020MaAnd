@@ -1,8 +1,8 @@
 Background - Color : 
 Navbar/ Footer BG : 198,70,70
 navbar Text BG : 235,69,69
-Impressum BG :
-Text BG : 
+Impressum BG : 164,50,50
+Text BG : 200,252,248
 Titel
 -------------------------
 Link
